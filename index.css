@@ -1,0 +1,161 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    width: 100vw;
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo {
+    height: 50px;
+    width: 42px;
+    ;
+}
+
+#footer {
+    background-color: #101010;
+    width: 100vw;
+    height: 228px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-section {
+
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#footer-logo {
+    background-color: #101010;
+    padding-bottom: 81px;
+    height: 68px;
+
+}
+
+#footer-icon {
+    width: 167px;
+    height: 44px;
+    gap: 10px;
+}
+
+#intro {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#intro-title {
+    font-size: 72px;
+    display: flex;
+    justify-content: center;
+    font-weight: 700px;
+    line-height: 87.77px;
+    margin: 0;
+    padding-top: 120px;
+}
+
+#intro-sub-title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29.26px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    margin-bottom: 0px;
+    padding-top: 8px;
+}
+
+.intro-image {
+    margin: 0;
+    width: 284px;
+    height: 400px;
+}
+
+#intro-image-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    gap: 21px;
+    margin: 0;
+}
+#intro-section {
+    margin: 120px;
+    width: 1200px;
+    height: 500px;
+}
+#direction-section {
+    width: 1200px;
+    margin-top: 240px;
+    height: 845px;
+}
+#directiom-sub-title{
+color: color #ababab;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+width: 198px;
+height: 28px;
+padding-top: 0;
+}
+#direction-title{
+    color: #303030;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 358;
+    height: 118px;
+    padding-top:10px;
+}
+.direction-days{
+
+    display: flex;
+    width: 58px;
+    height: 56px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius:  40px;
+    background-color: #1d1f24;
+    color: #16a94a;
+    font-size: 17px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: 700;
+}
+.direction-day-text{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}.direction-day-text2{
+    color: #777;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#direction-image{
+    width: 692px;
+    height: 845px;
+}
+#direction-day-plan{
+    display: flex;
+    
+
+}
